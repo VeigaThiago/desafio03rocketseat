@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-import api from "/home/thiago/Documentos/desafio03-master/src/services/api.js"
+import api from "./services/api.js"
 
 import "./styles.css";
 
